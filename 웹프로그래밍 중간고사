@@ -8,6 +8,10 @@
   2. Apache Tomcat Server(웹 서버 역할 수행)
   3, JSP 통합 개발환경(Integrated Development Environment) - 이클립스
 
+[작동원리]
+정적 - 같음
+동적 - 다름
+
 
 [기본 문법]
 
